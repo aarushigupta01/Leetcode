@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aarushigupta01/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aarushigupta01/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aarushigupta01/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aarushigupta01/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aarushigupta01/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
