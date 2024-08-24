@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aarushigupta01/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aarushigupta01/Leetcode/tree/master/0229-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/aarushigupta01/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
