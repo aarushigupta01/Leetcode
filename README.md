@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aarushigupta01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aarushigupta01/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/aarushigupta01/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/aarushigupta01/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aarushigupta01/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/aarushigupta01/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
